@@ -1378,6 +1378,18 @@
 			"value" : "ON"
 		},
 		{
+			"name" : "basisu_LIB_DEPENDS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Dependencies for the target"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "general;basisu_encoder;general;m;general;pthread;"
+		},
+		{
 			"name" : "basisu_SOURCE_DIR",
 			"properties" : 
 			[

@@ -43,21 +43,21 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "basisu::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-basisu-Release-fa134ed04a7aa24cc018.json",
+					"jsonFile" : "target-basisu-Release-d9d561befb8f2f137066.json",
 					"name" : "basisu",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "basisu_encoder::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-basisu_encoder-Release-183a000840499dbfadf3.json",
+					"jsonFile" : "target-basisu_encoder-Release-4513c73c88214d4aea0f.json",
 					"name" : "basisu_encoder",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "examples::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-examples-Release-dc95da00c26f5ecd47c2.json",
+					"jsonFile" : "target-examples-Release-bcf7d13f190f9f4ac420.json",
 					"name" : "examples",
 					"projectIndex" : 0
 				}

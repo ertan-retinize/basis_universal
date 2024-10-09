@@ -163,14 +163,16 @@ set(ENCODER_LIB_SRC_LIST
 )
 
 if (ZSTD)
-    set(ENCODER_LIB_SRC_LIST ${ENCODER_LIB_SRC_LIST} zstd/zstd.c)
+    set(ENCODER_LIB_SRC_LIST ${ENCODER_LIB_SRC_LIST} zstd/zstd.c
+            transcoder/transcoder_interface.cpp)
 endif()
 
 # Create the static library
 add_library(basisu_encoder STATIC ${ENCODER_LIB_SRC_LIST})
 
 # Create the basisu executable and link against the static library
-add_executable(basisu basisu_tool.cpp)
+add_library(basisu SHARED basisu_tool.cpp)
+
 target_link_libraries(basisu PRIVATE basisu_encoder)
 
 # Create the new example executable and link against the static library

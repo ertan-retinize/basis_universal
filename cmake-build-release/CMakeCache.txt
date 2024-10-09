@@ -266,6 +266,9 @@ basisu_BINARY_DIR:STATIC=C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_u
 //Value Computed by CMake
 basisu_IS_TOP_LEVEL:STATIC=ON
 
+//Dependencies for the target
+basisu_LIB_DEPENDS:STATIC=general;basisu_encoder;general;m;general;pthread;
+
 //Value Computed by CMake
 basisu_SOURCE_DIR:STATIC=C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal
 

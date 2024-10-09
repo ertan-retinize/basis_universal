@@ -2,10 +2,13 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/bin/basisu.exe"
+			"path" : "C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/bin/libbasisu.dll"
 		},
 		{
-			"path" : "C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/bin/basisu.pdb"
+			"path" : "libbasisu.dll.a"
+		},
+		{
+			"path" : "C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/bin/libbasisu.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -13,7 +16,7 @@
 	{
 		"commands" : 
 		[
-			"add_executable",
+			"add_library",
 			"target_link_libraries",
 			"target_compile_definitions"
 		],
@@ -29,25 +32,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 173,
-				"parent" : 0
-			},
-			{
-				"command" : 1,
-				"file" : 0,
 				"line" : 174,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 220,
+				"line" : 176,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 222,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 181,
+				"line" : 183,
 				"parent" : 0
 			}
 		]
@@ -66,6 +69,9 @@
 				{
 					"backtrace" : 4,
 					"define" : "BASISD_SUPPORT_KTX2_ZSTD=1"
+				},
+				{
+					"define" : "basisu_EXPORTS"
 				}
 			],
 			"language" : "CXX",
@@ -88,11 +94,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option",
-				"role" : "flags"
-			},
-			{
-				"fragment" : "-Wl,-rpath .",
+				"fragment" : "",
 				"role" : "flags"
 			},
 			{
@@ -118,7 +120,7 @@
 		"language" : "CXX"
 	},
 	"name" : "basisu",
-	"nameOnDisk" : "basisu.exe",
+	"nameOnDisk" : "libbasisu.dll",
 	"paths" : 
 	{
 		"build" : ".",
@@ -143,5 +145,5 @@
 			"sourceGroupIndex" : 0
 		}
 	],
-	"type" : "EXECUTABLE"
+	"type" : "SHARED_LIBRARY"
 }
