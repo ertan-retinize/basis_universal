@@ -1,0 +1,5 @@
+C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/cmake-build-release/CMakeFiles/basisu_encoder.dir
+C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/cmake-build-release/CMakeFiles/basisu.dir
+C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/cmake-build-release/CMakeFiles/examples.dir
+C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/cmake-build-release/CMakeFiles/rebuild_cache.dir

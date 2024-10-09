@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "basisu",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "basisu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basisu-Release-fa134ed04a7aa24cc018.json",
+					"name" : "basisu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "basisu_encoder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-basisu_encoder-Release-183a000840499dbfadf3.json",
+					"name" : "basisu_encoder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "examples::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-examples-Release-dc95da00c26f5ecd47c2.json",
+					"name" : "examples",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/cmake-build-release",
+		"source" : "C:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
