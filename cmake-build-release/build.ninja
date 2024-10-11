@@ -51,141 +51,141 @@ build cmake_object_order_depends_target_basisu_encoder: phony || CMakeFiles/basi
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_backend.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_backend.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_backend.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_basis_file.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_basis_file.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_basis_file.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_comp.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_comp.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_comp.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_enc.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_enc.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_enc.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_etc.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_etc.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_etc.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_frontend.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_frontend.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_frontend.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_gpu_texture.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_gpu_texture.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_gpu_texture.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_pvrtc1_4.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_pvrtc1_4.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_pvrtc1_4.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_resampler.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_resampler.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_resampler.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_resample_filters.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_resample_filters.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_resample_filters.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_ssim.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_ssim.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_ssim.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_uastc_enc.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_uastc_enc.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_uastc_enc.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_bc7enc.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_bc7enc.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_bc7enc.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/jpgd.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/jpgd.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\jpgd.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_kernels_sse.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_kernels_sse.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_kernels_sse.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_opencl.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_opencl.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_opencl.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/pvpngreader.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/pvpngreader.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\pvpngreader.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/basisu_astc_hdr_enc.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/basisu_astc_hdr_enc.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\basisu_astc_hdr_enc.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder
 
 build CMakeFiles/basisu_encoder.dir/encoder/3rdparty/android_astc_decomp.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/3rdparty/android_astc_decomp.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\3rdparty\android_astc_decomp.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder\3rdparty
 
 build CMakeFiles/basisu_encoder.dir/encoder/3rdparty/tinyexr.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/encoder/3rdparty/tinyexr.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\encoder\3rdparty\tinyexr.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\encoder\3rdparty
 
 build CMakeFiles/basisu_encoder.dir/transcoder/basisu_transcoder.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/transcoder/basisu_transcoder.cpp || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\transcoder\basisu_transcoder.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\transcoder
 
 build CMakeFiles/basisu_encoder.dir/zstd/zstd.c.obj: C_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/zstd/zstd.c || cmake_object_order_depends_target_basisu_encoder
   DEP_FILE = CMakeFiles\basisu_encoder.dir\zstd\zstd.c.obj.d
-  FLAGS = -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-misleading-indentation -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-misleading-indentation -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\zstd
 
-build CMakeFiles/basisu_encoder.dir/transcoder/transcoder_interface.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/transcoder/transcoder_interface.cpp || cmake_object_order_depends_target_basisu_encoder
-  DEP_FILE = CMakeFiles\basisu_encoder.dir\transcoder\transcoder_interface.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+build CMakeFiles/basisu_encoder.dir/transcoder_interface.cpp.obj: CXX_COMPILER__basisu_encoder_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/transcoder_interface.cpp || cmake_object_order_depends_target_basisu_encoder
+  DEP_FILE = CMakeFiles\basisu_encoder.dir\transcoder_interface.cpp.obj.d
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
-  OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir\transcoder
+  OBJECT_FILE_DIR = CMakeFiles\basisu_encoder.dir
 
 
 # =============================================================================
@@ -195,8 +195,8 @@ build CMakeFiles/basisu_encoder.dir/transcoder/transcoder_interface.cpp.obj: CXX
 #############################################
 # Link the static library libbasisu_encoder.a
 
-build libbasisu_encoder.a: CXX_STATIC_LIBRARY_LINKER__basisu_encoder_Release CMakeFiles/basisu_encoder.dir/encoder/basisu_backend.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_basis_file.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_comp.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_etc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_frontend.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_gpu_texture.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_pvrtc1_4.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_resampler.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_resample_filters.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_ssim.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_uastc_enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_bc7enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/jpgd.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_kernels_sse.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_opencl.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/pvpngreader.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_astc_hdr_enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/3rdparty/android_astc_decomp.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/3rdparty/tinyexr.cpp.obj CMakeFiles/basisu_encoder.dir/transcoder/basisu_transcoder.cpp.obj CMakeFiles/basisu_encoder.dir/zstd/zstd.c.obj CMakeFiles/basisu_encoder.dir/transcoder/transcoder_interface.cpp.obj
-  LANGUAGE_COMPILE_FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option
+build libbasisu_encoder.a: CXX_STATIC_LIBRARY_LINKER__basisu_encoder_Release CMakeFiles/basisu_encoder.dir/encoder/basisu_backend.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_basis_file.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_comp.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_etc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_frontend.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_gpu_texture.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_pvrtc1_4.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_resampler.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_resample_filters.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_ssim.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_uastc_enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_bc7enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/jpgd.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_kernels_sse.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_opencl.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/pvpngreader.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/basisu_astc_hdr_enc.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/3rdparty/android_astc_decomp.cpp.obj CMakeFiles/basisu_encoder.dir/encoder/3rdparty/tinyexr.cpp.obj CMakeFiles/basisu_encoder.dir/transcoder/basisu_transcoder.cpp.obj CMakeFiles/basisu_encoder.dir/zstd/zstd.c.obj CMakeFiles/basisu_encoder.dir/transcoder_interface.cpp.obj
+  LANGUAGE_COMPILE_FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG
   OBJECT_DIR = CMakeFiles\basisu_encoder.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -215,7 +215,14 @@ build cmake_object_order_depends_target_basisu: phony || cmake_object_order_depe
 build CMakeFiles/basisu.dir/basisu_tool.cpp.obj: CXX_COMPILER__basisu_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/basisu_tool.cpp || cmake_object_order_depends_target_basisu
   DEFINES = -DBASISD_SUPPORT_KTX2_ZSTD=1 -Dbasisu_EXPORTS
   DEP_FILE = CMakeFiles\basisu.dir\basisu_tool.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\basisu.dir
+  OBJECT_FILE_DIR = CMakeFiles\basisu.dir
+
+build CMakeFiles/basisu.dir/transcoder_interface.cpp.obj: CXX_COMPILER__basisu_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/transcoder_interface.cpp || cmake_object_order_depends_target_basisu
+  DEFINES = -DBASISD_SUPPORT_KTX2_ZSTD=1 -Dbasisu_EXPORTS
+  DEP_FILE = CMakeFiles\basisu.dir\transcoder_interface.cpp.obj.d
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\basisu.dir
   OBJECT_FILE_DIR = CMakeFiles\basisu.dir
 
@@ -227,9 +234,9 @@ build CMakeFiles/basisu.dir/basisu_tool.cpp.obj: CXX_COMPILER__basisu_unscanned_
 #############################################
 # Link the shared library C:\Users\jack\Desktop\Projects\C\BasisUniversal\basis_universal\bin\libbasisu.dll
 
-build C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/bin/libbasisu.dll libbasisu.dll.a: CXX_SHARED_LIBRARY_LINKER__basisu_Release CMakeFiles/basisu.dir/basisu_tool.cpp.obj | libbasisu_encoder.a || libbasisu_encoder.a
-  LANGUAGE_COMPILE_FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option
-  LINK_LIBRARIES = libbasisu_encoder.a  -lm  -lpthread  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+build C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/bin/libbasisu.dll libbasisu.dll.a: CXX_SHARED_LIBRARY_LINKER__basisu_Release CMakeFiles/basisu.dir/basisu_tool.cpp.obj CMakeFiles/basisu.dir/transcoder_interface.cpp.obj | libbasisu_encoder.a || libbasisu_encoder.a
+  LANGUAGE_COMPILE_FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG
+  LINK_LIBRARIES = libbasisu_encoder.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\basisu.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -250,7 +257,7 @@ build cmake_object_order_depends_target_examples: phony || cmake_object_order_de
 build CMakeFiles/examples.dir/example/example.cpp.obj: CXX_COMPILER__examples_unscanned_Release C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/example/example.cpp || cmake_object_order_depends_target_examples
   DEFINES = -DBASISD_SUPPORT_KTX2_ZSTD=1
   DEP_FILE = CMakeFiles\examples.dir\example\example.cpp.obj.d
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -fdiagnostics-color=always
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\examples.dir
   OBJECT_FILE_DIR = CMakeFiles\examples.dir\example
 
@@ -263,9 +270,8 @@ build CMakeFiles/examples.dir/example/example.cpp.obj: CXX_COMPILER__examples_un
 # Link the executable C:\Users\jack\Desktop\Projects\C\BasisUniversal\basis_universal\bin\examples.exe
 
 build C$:/Users/jack/Desktop/Projects/C/BasisUniversal/basis_universal/bin/examples.exe: CXX_EXECUTABLE_LINKER__examples_Release CMakeFiles/examples.dir/example/example.cpp.obj | libbasisu_encoder.a || libbasisu_encoder.a
-  FLAGS = -std=c++11 -DBASISU_SUPPORT_SSE=0 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option -O3 -DNDEBUG -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -Wno-unused-local-typedefs -Wno-unused-value -Wno-unused-parameter -Wno-unused-variable -Wno-reorder -Wno-misleading-indentation -Wno-class-memaccess -Wno-deprecated-copy -Wno-maybe-uninitialized -Wno-unused-function -Wno-stringop-overflow -Wno-unknown-warning-option
-  LINK_FLAGS = -Wl,-rpath .
-  LINK_LIBRARIES = libbasisu_encoder.a  -lm  -lpthread  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  FLAGS = -std=c++11 -fvisibility=hidden -fPIC -fno-strict-aliasing -D_LARGEFILE64_SOURCE=1 -D_FILE_OFFSET_BITS=64 -Wall -Wextra -O3 -DNDEBUG
+  LINK_LIBRARIES = libbasisu_encoder.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\examples.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
